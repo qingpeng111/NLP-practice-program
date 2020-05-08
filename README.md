@@ -1,3 +1,4 @@
+https://www.bilibili.com/video/av42442500?p=2
 # NLP练手项目路线
 
 ## 简介
